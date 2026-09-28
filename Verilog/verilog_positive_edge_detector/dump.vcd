@@ -1,0 +1,73 @@
+$date
+	Mon Sep 28 16:11:15 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! pe $end
+$var reg 1 " clk $end
+$var reg 1 # sig $end
+$scope module ped0 $end
+$var wire 1 " clk $end
+$var wire 1 ! pe $end
+$var wire 1 # sig $end
+$var reg 1 $ sig_dly $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x$
+0#
+0"
+0!
+$end
+#5
+0$
+1"
+#10
+0"
+#15
+1!
+1#
+1"
+#20
+0"
+#25
+0!
+1$
+1"
+#30
+0"
+#35
+0#
+1"
+#40
+0"
+#45
+0$
+1"
+#50
+1!
+1#
+0"
+#55
+0!
+1$
+1"
+#60
+0#
+0"
+#65
+0$
+1"
+#70
+0"
+#75
+1"
+#80
+0"
