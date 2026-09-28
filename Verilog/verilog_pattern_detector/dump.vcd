@@ -1,0 +1,159 @@
+$date
+	Mon Sep 28 15:56:28 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! out $end
+$var reg 1 " clk $end
+$var reg 1 # in $end
+$var reg 1 $ rstn $end
+$scope module u0 $end
+$var wire 1 " clk $end
+$var wire 1 # in $end
+$var wire 1 $ rstn $end
+$var wire 1 ! out $end
+$var reg 3 % cur_state [2:0] $end
+$var reg 3 & next_state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+bx %
+0$
+0#
+0"
+x!
+$end
+#10
+0!
+b0 %
+1"
+#20
+0"
+#30
+1"
+#40
+0"
+#50
+1"
+#60
+0"
+#70
+1"
+#80
+0"
+#90
+1$
+1"
+#100
+0"
+#110
+b1 &
+1#
+1"
+#120
+0"
+#130
+b10 &
+b1 %
+1"
+#140
+0"
+#150
+b11 &
+0#
+b10 %
+1"
+#160
+0"
+#170
+1#
+b100 &
+b11 %
+1"
+#180
+0"
+#190
+0#
+b101 &
+b100 %
+1"
+#200
+0"
+#210
+1#
+b110 &
+b101 %
+1"
+#220
+0"
+#230
+b10 &
+1!
+b110 %
+1"
+#240
+0"
+#250
+0!
+b10 %
+1"
+#260
+0"
+#270
+b11 &
+0#
+1"
+#280
+0"
+#290
+1#
+b100 &
+b11 %
+1"
+#300
+0"
+#310
+0#
+b101 &
+b100 %
+1"
+#320
+0"
+#330
+1#
+b110 &
+b101 %
+1"
+#340
+0"
+#350
+b10 &
+1!
+b110 %
+1"
+#360
+0"
+#370
+0!
+b10 %
+1"
+#380
+0"
+#390
+1"
+#400
+0"
+#410
+1"
+#420
+0"
+#430
+1"
